@@ -1,0 +1,1 @@
+html,body{margin:0;height:100%}body{display:flex;justify-content:center;align-items:center;background:url(background.jpg) center/cover no-repeat;overflow:hidden}#t{color:#fff;font:bold 42px sans-serif;text-align:center;padding:20px;text-shadow:2px 2px 5px #000;transition:all 1s} .fade{transform:translateY(25vh);opacity:0}
